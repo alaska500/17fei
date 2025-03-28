@@ -29,7 +29,7 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "feixingqi"
+          project: "alaska500-17fei-77"
           entrypoint: "main.ts"
           root: "."
           
